@@ -2,3 +2,5 @@
 	name = vumashankar
 	mail = shankaruma16@gmail.com
 	email = shankaruma16@gmail.com
+[credential]
+	helper = /usr/libexec/git-core/git-credential-libsecret
